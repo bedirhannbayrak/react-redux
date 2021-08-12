@@ -1,0 +1,76 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+.green.colorbox{
+  cursor:pointer;
+  background-color:#2ecc71 ;
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
+ }
+.blue.colorbox{
+  cursor:pointer;
+  background-color:#3498db ;
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
+}
+.yellow.colorbox{
+  cursor:pointer;
+  background-color:#f1c40f;
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
+}
+
+.red.colorbox{
+  cursor:pointer;
+  background-color:#e74c3c;
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
+}
+
+
+
+.green{
+  background-color:#2ecc71;
+}
+.blue{
+  background-color:#3498db ;
+}
+.yellow{
+  background-color:#f1c40f;
+}
+.red{
+  background-color:#e74c3c ;
+}
+
+
+
+*{
+  list-style: none;
+}
+
+.green .todo-item{
+  color:white
+}
+
+.todo-item{
+  flex-wrap: wrap;
+  word-break: break-all;
+  border-bottom: 1px solid rgba(69,171,240,0.47);
+  padding: 5px 10px;
+}
+
+.todo-column:not(:last-child){
+  margin-right:1rem;
+}
