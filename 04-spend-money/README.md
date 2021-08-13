@@ -1,10 +1,10 @@
 
-# Redux Todolist Color
+# React + Redux Spending Money App
 
 Demo : https://spend-money-react-redux.surge.sh/
 
-## Ekran Görüntüleri
+## Screens
 
-![Uygulama Ekran Görüntüsü](https://github.com/bedirhannbayrak/redux/blob/main/03-color%20picker/demo.gif?raw=true)
+![Uygulama Ekran Görüntüsü](https://github.com/bedirhannbayrak/redux/blob/main/04-spend-money/live.gif)
 
   
