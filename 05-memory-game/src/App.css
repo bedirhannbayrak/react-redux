@@ -1,0 +1,19 @@
+button.disabled{
+    cursor: not-allowed;
+}
+button.disabled:hover{
+    cursor: not-allowed;
+    background-color: #B83280;
+    opacity: .7!important;
+}
+button.done{
+    -webkit-box-shadow: 11px 10px 20px -4px rgba(0,122,4,0.63) !important;
+    -moz-box-shadow: 11px 10px 20px -4px rgba(0,122,4,0.63)!important;
+    box-shadow: 11px 10px 20px -4px rgba(0,122,4,0.63) !important;
+    background-color: #B83280;
+    opacity: .5!important;
+}
+
+button{
+    opacity: .9 !important;
+}
